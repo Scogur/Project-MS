@@ -5,7 +5,7 @@ public class MenuButtons : MonoBehaviour
 {
     public void PlayButton(){
         Debug.Log("PlayButton clicked");
-        SceneManager.LoadScene("VillageScene");
+        SceneManager.LoadScene("SampleScene");
     }
 
     public void OptionsButton(){
